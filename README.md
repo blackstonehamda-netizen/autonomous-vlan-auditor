@@ -1,5 +1,7 @@
 # Autonomous AI Agent for Network Segmentation and VLAN Isolation Auditing
 
+> ⚠️ **Work in Progress** — this is an early prototype demonstrating the AI agent architecture (autonomous script generation + self-correction loop). VLAN/network setup and deeper validation logic are still in progress.
+
 This project implements an autonomous security auditor built with a custom, zero-dependency Agentic Framework. The architecture utilizes the Gemini 3.6-flash API as its core cognitive reasoning engine to automate inter-VLAN boundary enforcement checks.
 
 ## Architecture and Workflow
